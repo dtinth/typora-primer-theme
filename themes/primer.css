@@ -1,0 +1,20 @@
+@import "primer/normalize.css";
+@import "primer/base.css";
+@import "primer/markdown.css";
+
+/**
+ * Customizations for Typora
+ */
+body {
+  -webkit-font-smoothing: auto;
+}
+#write {
+  max-width: 888px;
+  box-sizing: content-box;
+  padding-top: 30px;
+}
+#write pre pre {
+  font-size: 100%;
+  margin: 0;
+  padding: 0;
+}
