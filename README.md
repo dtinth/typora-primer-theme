@@ -3,7 +3,7 @@ A Typora theme based on [Primer](https://primer.github.io/), the design system t
 
 ## Screenshot
 
-![Screenshot](/Users/dtinth/Projects/typora-primer-theme/screenshot.png)
+![Screenshot](screenshot.png)
 
 ## How to use
 
